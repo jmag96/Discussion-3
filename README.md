@@ -17,4 +17,4 @@ This project demonstrates those differences using Java code and comments.
 Open the file in VS Code or your Java IDE. Run the `DifferenceArraysArrayLists` class and follow the output.
 
 ## Repository URL:
-[https://github.com/YOUR-USERNAME/Difference-Arrays-ArrayLists](https://github.com/YOUR-USERNAME/Difference-Arrays-ArrayLists)
+https://github.com/jmag96/Discussion-3/blob/main/DifferenceArraysArrayLists.java
